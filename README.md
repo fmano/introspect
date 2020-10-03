@@ -1,5 +1,9 @@
 # Introspect
 
+Introspect is an idea that occured to me during a self-analysis process that I took part of. I found it helpful to break down my goals into tiny steps and get an overview on where I stand towards their completion.
+
+The purpose of Introspect is just that: to provide a place where we can set our goals and the steps that we need to do in order to achieve them. 
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.4.
 
 ## Development server
