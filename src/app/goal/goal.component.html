@@ -1,0 +1,13 @@
+<h2>My Goals</h2>
+<ul class="goals">
+    <li *ngFor="let goal of goals">
+        <span class="badge">{{goal.id}}</span>
+        {{goal.name}}
+        <ol> Steps:
+            <li *ngFor="let step of goal.steps">
+                <span class="badge">{{step.id}}</span>
+                {{step.name}}
+            </li>
+        </ol>
+    </li>
+</ul>
